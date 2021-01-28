@@ -3,7 +3,7 @@ A common actuator in control systems is the DC motor. It directly provides rotar
 
 ![image used](https://github.com/souvik0306/DC-Motor-speed-control-using-Simulink/blob/master/Armature.jpg?raw=true)
 
-## Physical Paramters - 
+## Physical Paramters taken into consideration- 
 1) (J) - Moment of inertia of the rotor     0.01 kg.m^2
 2) (b) - Motor viscous friction constant    0.1 N.m.s
 3) (Ke) - Electromotive force constant       0.01 V/rad/sec
