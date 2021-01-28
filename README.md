@@ -1,5 +1,6 @@
 ## Introduction - 
-A common actuator in control systems is the DC motor. It directly provides rotary motion and, coupled with wheels or drums and cables, can provide translational motion. The electric circuit of the armature and the free-body diagram of the rotor are shown in the following figure:![image used](https://github.com/souvik0306/DC-Motor-speed-control-using-Simulink/blob/master/Armature.jpg?raw=true)
+A common actuator in control systems is the DC motor. It directly provides rotary motion and, coupled with wheels or drums and cables, can provide translational motion. The electric circuit of the armature and the free-body diagram of the rotor are shown in the following figure:
+![image used](https://github.com/souvik0306/DC-Motor-speed-control-using-Simulink/blob/master/Armature.jpg?raw=true)
 
 ## Physical Paramters - 
 1) (J) - Moment of inertia of the rotor     0.01 kg.m^2
