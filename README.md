@@ -6,7 +6,7 @@ A common actuator in control systems is the DC motor. It directly provides rotar
 For this, I have assumed that the input of the system is the voltage source (V) applied to the motor's armature, while the output is the rotational speed of the shaft say ***theta***. The rotor and shaft are assumed to be rigid. I further assume a viscous friction model, that is, the friction torque is proportional to shaft angular velocity.
 
 ## Physical Paramters taken into consideration - 
-1) (***J***) - Moment of inertia of the Rotor     0.01 kg.m^2
+1) (***J***) - Moment of Inertia of the Rotor     0.01 kg.m^2
 2) (***b***) - Motor Viscous Friction Constant    0.1 N.m.s
 3) (***Ke***) - Electromotive Force Constant       0.01 V/rad/sec
 4) (***Kt***) - Motor Torque Constant              0.01 N.m/Amp
