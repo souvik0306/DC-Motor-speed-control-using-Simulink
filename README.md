@@ -3,7 +3,7 @@ A common actuator in control systems is the DC Motor. It directly provides rotar
 
 ![image used](https://github.com/souvik0306/DC-Motor-speed-control-using-Simulink/blob/master/Armature.jpg?raw=true)
 
-For this, I have assumed that the input of the system is the voltage source (V) applied to the motor's armature, while the output is the rotational speed of the shaft say ***theta***. The rotor and shaft are assumed to be rigid. I further assume a viscous friction model, that is, the friction torque is proportional to shaft angular velocity.
+In this project, I have assumed that the input of the system is the voltage source (V) applied to the motor's armature, while the output is the rotational speed of the shaft say ***theta***. The rotor and shaft are assumed to be rigid. I further assume a viscous friction model, that is, the friction torque is proportional to shaft angular velocity.
 
 ## Physical Paramters taken into consideration - 
 1) (***J***) - Moment of Inertia of the Rotor     0.01 kg.m^2
